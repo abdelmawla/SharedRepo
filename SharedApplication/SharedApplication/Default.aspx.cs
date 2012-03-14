@@ -11,7 +11,7 @@ namespace SharedApplication
     {
         protected void Page_Load(object sender, EventArgs e)
         {
-            // added by amgad desouky @ 14/03/2011 2:21 pm
+            // modified by amgad desouky @ 14/03/2011 2:32 pm
             if (!IsPostBack)
             {
             }
